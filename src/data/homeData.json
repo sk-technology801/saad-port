@@ -1,0 +1,187 @@
+{
+  "hero": {
+    "badge": "Available for projects",
+    "name": "Saadi",
+    "title": "Full-stack developer crafting exceptional digital solutions with modern technologies",
+    "typedTexts": [
+      "Interactive Experiences",
+      "Web Applications",
+      "Scalable Solutions",
+      "Modern Interfaces"
+    ],
+    "ctaButtons": [
+      {
+        "text": "View My Work",
+        "link": "/projects",
+        "variant": "primary"
+      },
+      {
+        "text": "Get In Touch",
+        "link": "/contact",
+        "variant": "secondary"
+      }
+    ]
+  },
+  
+  "stats": [
+    {
+      "value": 4,
+      "label": "Years Experience",
+      "icon": "Clock",
+      "color": "bg-blue-500/20 text-blue-400"
+    },
+    {
+      "value": 25,
+      "label": "Projects Delivered",
+      "icon": "Layers",
+      "color": "bg-purple-500/20 text-purple-400"
+    },
+    {
+      "value": 100,
+      "label": "Client Satisfaction",
+      "icon": "Star",
+      "color": "bg-green-500/20 text-green-400"
+    },
+    {
+      "value": 50,
+      "label": "Tech Stack",
+      "icon": "Cpu",
+      "color": "bg-cyan-500/20 text-cyan-400"
+    }
+  ],
+  
+  "services": [
+    {
+      "icon": "Brain",
+      "title": "Strategy & Planning",
+      "description": "Comprehensive project planning and technical strategy",
+      "features": ["Technical Architecture", "Roadmapping", "System Design"],
+      "color": "from-blue-500 to-cyan-500"
+    },
+    {
+      "icon": "Code",
+      "title": "Development",
+      "description": "Building robust applications with modern frameworks",
+      "features": ["React/Next.js", "TypeScript", "API Development"],
+      "color": "from-purple-500 to-pink-500"
+    },
+    {
+      "icon": "Eye",
+      "title": "UI/UX Design",
+      "description": "Creating intuitive and engaging user interfaces",
+      "features": ["User Research", "Prototyping", "Design Systems"],
+      "color": "from-emerald-500 to-teal-500"
+    },
+    {
+      "icon": "Shield",
+      "title": "Security & DevOps",
+      "description": "Secure deployment and infrastructure management",
+      "features": ["CI/CD", "Security Audits", "Performance"],
+      "color": "from-orange-500 to-amber-500"
+    }
+  ],
+  
+  "techStack": [
+    {
+      "name": "React",
+      "level": 96,
+      "color": "#61DAFB"
+    },
+    {
+      "name": "Next.js",
+      "level": 94,
+      "color": "#000000"
+    },
+    {
+      "name": "TypeScript",
+      "level": 92,
+      "color": "#3178C6"
+    },
+    {
+      "name": "Node.js",
+      "level": 88,
+      "color": "#68A063"
+    },
+    {
+      "name": "Tailwind",
+      "level": 95,
+      "color": "#38BDF8"
+    },
+    {
+      "name": "MongoDB",
+      "level": 85,
+      "color": "#47A248"
+    }
+  ],
+  
+  "projects": [
+    {
+      "title": "Nexus Analytics",
+      "description": "Real-time data visualization platform for business intelligence",
+      "tech": ["Next.js", "D3.js", "WebSockets"],
+      "status": "Live",
+      "category": "Dashboard" 
+    },
+    {
+      "title": "Quantum Store",
+      "description": "Modern e-commerce with AI recommendations",
+      "tech": ["React", "Node.js", "Stripe"],
+      "status": "In Progress",
+      "category": "E-commerce"
+    },
+    {
+      "title": "Aurora Connect",
+      "description": "Social platform with real-time features",
+      "tech": ["React Native", "GraphQL", "Redis"],
+      "status": "Live",
+      "category": "Social"
+      
+    }
+  ],
+  
+  "testimonials": [
+    {
+      "name": "Alex Chen",
+      "role": "Product Director",
+      "company": "TechVision",
+      "quote": "Transformed our platform with exceptional architecture and flawless execution.",
+      "rating": 5,
+      "initials": "AC"
+    },
+    {
+      "name": "Maya Rodriguez",
+      "role": "Startup Founder",
+      "company": "Nova Labs",
+      "quote": "Exceptional technical skills combined with great communication and reliability.",
+      "rating": 5,
+      "initials": "MR"
+    },
+    {
+      "name": "David Park",
+      "role": "CTO",
+      "company": "Digital Solutions",
+      "quote": "Delivered complex features ahead of schedule with outstanding quality.",
+      "rating": 5,
+      "initials": "DP"
+    }
+  ],
+  
+  "cta": {
+    "title": "Let's Build Something Together",
+    "description": "Have a project in mind? Let's discuss how we can create something exceptional together.",
+    "buttons": [
+      {
+        "text": "Start a Conversation",
+        "link": "/contact",
+        "icon": "Coffee",
+        "variant": "primary"
+      },
+      {
+        "text": "See My Work",
+        "link": "/projects",
+        "icon": "Eye",
+        "variant": "secondary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "stats": {
+    "totalPosts": 42,
+    "totalViews": 125000,
+    "totalLikes": 8500,
+    "newsletterSubscribers": 3200,
+    "quickStats": [
+      {
+        "value": "42+",
+        "label": "Articles"
+      },
+      {
+        "value": "125K+",
+        "label": "Total Views"
+      },
+      {
+        "value": "8.5K+",
+        "label": "Likes"
+      },
+      {
+        "value": "320+",
+        "label": "Comments"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": 1,
+      "slug": "nextjs-13-app-router-deep-dive",
+      "title": "Next.js 13 App Router: A Complete Deep Dive",
+      "excerpt": "Explore the revolutionary App Router in Next.js 13, featuring server components, nested layouts, and enhanced performance patterns.",
+      "content": "",
+      "author": "John Doe",
+      "date": "2023-11-15",
+      "category": "Web Development",
+      "readingTime": "12",
+      "views": 12500,
+      "likes": 845,
+      "comments": 42,
+      "tags": ["Next.js", "React", "TypeScript", "Performance", "SSR"],
+      "featured": true,
+      "premium": false
+    },
+    {
+      "id": 2,
+      "slug": "ai-code-generation-revolution",
+      "title": "AI Code Generation: Revolutionizing Development Workflows",
+      "excerpt": "How AI-powered tools are transforming developer productivity and changing the way we write and review code.",
+      "content": "",
+      "author": "John Doe",
+      "date": "2023-11-10",
+      "category": "AI & Machine Learning",
+      "readingTime": "8",
+      "views": 8900,
+      "likes": 623,
+      "comments": 35,
+      "tags": ["AI", "Copilot", "Productivity", "Future"],
+      "featured": false,
+      "premium": true
+    },
+    {
+      "id": 3,
+      "slug": "microservices-aws-best-practices",
+      "title": "Microservices on AWS: Architecture Best Practices",
+      "excerpt": "Building scalable microservices on AWS with proper service boundaries, communication patterns, and monitoring strategies.",
+      "content": "",
+      "author": "John Doe",
+      "date": "2023-11-05",
+      "category": "DevOps",
+      "readingTime": "15",
+      "views": 7600,
+      "likes": 512,
+      "comments": 28,
+      "tags": ["AWS", "Microservices", "Docker", "Kubernetes", "Architecture"],
+      "featured": true,
+      "premium": false
+    },
+    {
+      "id": 4,
+      "slug": "react-performance-optimization",
+      "title": "Advanced React Performance Optimization Techniques",
+      "excerpt": "Master memoization, code splitting, and virtual rendering to build blazing-fast React applications.",
+      "content": "",
+      "author": "John Doe",
+      "date": "2023-11-01",
+      "category": "Web Development",
+      "readingTime": "10",
+      "views": 11200,
+      "likes": 721,
+      "comments": 39,
+      "tags": ["React", "Performance", "Optimization", "Memoization", "Bundle"],
+      "featured": false,
+      "premium": false
+    },
+    {
+      "id": 5,
+      "slug": "dark-mode-implementation-guide",
+      "title": "Complete Dark Mode Implementation Guide (2023)",
+      "excerpt": "From CSS variables to theme switching, learn how to implement perfect dark mode in modern web applications.",
+      "content": "",
+      "author": "John Doe",
+      "date": "2023-10-28",
+      "category": "UI/UX",
+      "readingTime": "7",
+      "views": 6800,
+      "likes": 432,
+      "comments": 24,
+      "tags": ["CSS", "Design", "Dark Mode", "Accessibility", "UI"],
+      "featured": false,
+      "premium": false
+    },
+    {
+      "id": 6,
+      "slug": "senior-developer-skills-2024",
+      "title": "Essential Skills for Senior Developers in 2024",
+      "excerpt": "Beyond coding: The technical and soft skills you need to advance to senior and staff engineering roles.",
+      "content": "",
+      "author": "John Doe",
+      "date": "2023-10-25",
+      "category": "Career",
+      "readingTime": "6",
+      "views": 9500,
+      "likes": 654,
+      "comments": 47,
+      "tags": ["Career", "Skills", "Leadership", "Growth", "2024"],
+      "featured": false,
+      "premium": true
+    },
+    {
+      "id": 7,
+      "slug": "typescript-advanced-patterns",
+      "title": "Advanced TypeScript Patterns for Enterprise Applications",
+      "excerpt": "Type guards, conditional types, and other advanced TypeScript patterns for robust enterprise codebases.",
+      "content": "",
+      "author": "John Doe",
+      "date": "2023-10-20",
+      "category": "Web Development",
+      "readingTime": "14",
+      "views": 7200,
+      "likes": 498,
+      "comments": 31,
+      "tags": ["TypeScript", "Advanced", "Patterns", "Enterprise"],
+      "featured": false,
+      "premium": false
+    },
+    {
+      "id": 8,
+      "slug": "developer-productivity-tools",
+      "title": "My Essential Developer Productivity Toolkit (2023)",
+      "excerpt": "The tools, extensions, and workflows that save me hours every week as a full-stack developer.",
+      "content": "",
+      "author": "John Doe",
+      "date": "2023-10-15",
+      "category": "Productivity",
+      "readingTime": "9",
+      "views": 8300,
+      "likes": 587,
+      "comments": 33,
+      "tags": ["Tools", "Productivity", "Workflow", "Extensions"],
+      "featured": true,
+      "premium": false
+    }
+  ],
+  "popularTags": [
+    {
+      "name": "React",
+      "slug": "react",
+      "count": 15
+    },
+    {
+      "name": "TypeScript",
+      "slug": "typescript",
+      "count": 12
+    },
+    {
+      "name": "Next.js",
+      "slug": "nextjs",
+      "count": 10
+    },
+    {
+      "name": "Performance",
+      "slug": "performance",
+      "count": 8
+    },
+    {
+      "name": "AI",
+      "slug": "ai",
+      "count": 7
+    },
+    {
+      "name": "AWS",
+      "slug": "aws",
+      "count": 6
+    },
+    {
+      "name": "Architecture",
+      "slug": "architecture",
+      "count": 6
+    },
+    {
+      "name": "Tutorial",
+      "slug": "tutorial",
+      "count": 5
+    }
+  ],
+  "resources": [
+    {
+      "title": "React Performance Cheatsheet",
+      "type": "PDF Download",
+      "icon": "Download",
+      "url": "#"
+    },
+    {
+      "title": "TypeScript Utility Types Collection",
+      "type": "Code Snippets",
+      "icon": "Code",
+      "url": "#"
+    },
+    {
+      "title": "Developer Productivity Toolkit",
+      "type": "Curated List",
+      "icon": "Zap",
+      "url": "#"
+    }
+  ]
+}

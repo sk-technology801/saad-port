@@ -1,0 +1,102 @@
+{
+  "technicalExpertise": [
+    {
+      "category": "Frontend Development",
+      "skills": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "Framer Motion"],
+      "icon": "Code",
+      "level": 96,
+      "description": "Building responsive, performant user interfaces with modern frameworks"
+    },
+    {
+      "category": "Backend Development",
+      "skills": ["Node.js", "Express", "NestJS", "GraphQL", "REST APIs", "Socket.io"],
+      "icon": "Server",
+      "level": 92,
+      "description": "Developing scalable server-side applications and APIs"
+    },
+    {
+      "category": "Database Management",
+      "skills": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase", "Prisma"],
+      "icon": "Database",
+      "level": 88,
+      "description": "Designing and optimizing database architectures"
+    },
+    {
+      "category": "Cloud & DevOps",
+      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Nginx", "Terraform"],
+      "icon": "Cloud",
+      "level": 85,
+      "description": "Deploying and managing cloud infrastructure"
+    },
+    {
+      "category": "Mobile Development",
+      "skills": ["React Native", "Flutter", "PWA", "Expo", "App Store Deployment"],
+      "icon": "Smartphone",
+      "level": 82,
+      "description": "Building cross-platform mobile applications"
+    },
+    {
+      "category": "UI/UX Design",
+      "skills": ["Figma", "Adobe XD", "User Research", "Prototyping", "Design Systems"],
+      "icon": "Palette",
+      "level": 87,
+      "description": "Creating intuitive and engaging user experiences"
+    },
+    {
+      "category": "Testing & Quality",
+      "skills": ["Jest", "Cypress", "React Testing Library", "Postman", "Lighthouse"],
+      "icon": "Shield",
+      "level": 84,
+      "description": "Ensuring code quality and application reliability"
+    },
+    {
+      "category": "Tools & Platforms",
+      "skills": ["Git", "GitHub", "Jira", "VS Code", "Webpack", "Vercel"],
+      "icon": "Terminal",
+      "level": 94,
+      "description": "Using modern development tools and platforms"
+    }
+  ],
+  "softSkills": [
+    {
+      "skill": "Problem Solving",
+      "level": 95,
+      "description": "Analytical thinking and creative solutions"
+    },
+    {
+      "skill": "Communication",
+      "level": 90,
+      "description": "Clear technical and client communication"
+    },
+    {
+      "skill": "Project Management",
+      "level": 88,
+      "description": "Agile methodologies and team coordination"
+    },
+    {
+      "skill": "Mentoring",
+      "level": 85,
+      "description": "Guiding junior developers and knowledge sharing"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "year": "2023",
+      "credential": "Valid through 2026"
+    },
+    {
+      "name": "Google Professional Cloud Developer",
+      "issuer": "Google Cloud",
+      "year": "2022",
+      "credential": "Credential ID: GCP123456"
+    },
+    {
+      "name": "Meta Front-End Developer",
+      "issuer": "Meta",
+      "year": "2023",
+      "credential": "Professional Certificate"
+    }
+  ]
+}

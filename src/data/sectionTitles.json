@@ -1,0 +1,27 @@
+{
+  "services": {
+    "title": "What I Do",
+    "subtitle": "Comprehensive services to bring your ideas to life",
+    "icon": "Zap"
+  },
+  "techStack": {
+    "title": "Technical Stack",
+    "subtitle": "Tools and technologies I work with",
+    "icon": "Cpu"
+  },
+  "projects": {
+    "title": "Featured Work",
+    "subtitle": "Selected projects showcasing innovation and execution",
+    "icon": "Rocket"
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "What clients say about working with me",
+    "icon": "Star"
+  },
+  "cta": {
+    "title": "Let's Build Something Together",
+    "subtitle": "Have a project in mind? Let's discuss how we can create something exceptional together.",
+    "icon": "Target"
+  }
+}
